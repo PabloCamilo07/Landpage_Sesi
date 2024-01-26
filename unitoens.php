@@ -52,25 +52,51 @@
         <div class="fam-noticias-container">
             <p class="fam-topic-titles">Notícias</p>
 
-            <div class="fam-dflex-row">
-                <div class="fam-noticias-container-item col-md-2">
-                    <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 1.png" alt="">
+            <div class="row">
+                <div class="fam-noticias-container-item col">
+                    <div class="fam-image-and-news-container">
+                        <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 1.png" alt="">
 
-                    <p class="fam-noticias-text">Estudantes do SESI-166 vão a Brasília</p>
+                        <p class="fam-noticias-text">Estudantes do SESI-166 vão a Brasília</p>
+                    </div>
                 </div>
 
-                <div class="fam-notcias-container-item col-md-4">
-                    <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 2.png" alt="">
+                <div class="fam-notcias-container-item col">
+                    <div class="fam-image-and-news-container">
+                        <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 2.png" alt="">
 
-                    <p class="fam-noticias-text">Atletas do SESI-SP conquistam recorde de medalhas em jogos</p>
+                        <p class="fam-noticias-text">Atletas do SESI-SP conquistam recorde de medalhas em jogos</p>
+                    </div>
                 </div>
 
-                <div class="fam-notcias-container-item col-md-2">
-                    <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 3.png" alt="">
+                <div class="fam-notcias-container-item col">
+                    <div class="fam-image-and-news-container">
+                        <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 3.png" alt="">
 
-                    <p class="fam-noticias-text">Aluno do SESI-094 ganha a olímpiada de matemática</p>
+                        <p class="fam-noticias-text">Aluno do SESI-094 ganha a olímpiada de matemática</p>
+                    </div>
+                </div>
+
+                <div class="fam-noticias-container-item col">
+                    <div class="fam-image-and-news-container">
+                        <img class="fam-noticias-image" src="img/image 4.png" alt="">
+
+                        <p class="fam-noticias-text">SESIs do ABC promovem campeonato de Judô.</p>
+                    </div>
                 </div>
             </div>
+        </div>
+
+        <div class="fam-matriculas-container">
+            <p class="fam-topic-titles">Matrículas</p>
+
+            <div class="fam-cntnt-d-flex">
+                <img src="img/image 6.png" alt="">
+
+
+            </div>
+
+
         </div>
 
     </div>
