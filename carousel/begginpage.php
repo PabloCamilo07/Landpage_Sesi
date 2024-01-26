@@ -19,7 +19,9 @@
 <body>
 
 <div class="container-md">
+  <br>
     <h1 class="titu text-center ">Sesi Santo André - Página Inicial</h1>
+    <br>
     <div id="carouselExample" class="carousel slide">
       <div class="carousel-inner">
         <div class="carousel-item active" style="max-height: 650px;">
@@ -42,7 +44,3 @@
 
   </div>
 
-
-</body>
-
-</html>

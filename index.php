@@ -2,15 +2,39 @@
 
 <?php
 // Incluindo arquivos, header e navbar
-include_once("templates/header.php");
+// include_once("templates/header.php");
 ?>
 
-<!-- Container de Posicionamento -->
+<?php
+
+    include_once("carousel/begginpage.php");
+
+?>
+<?php
+
+    include_once("unitoens.php");
+
+?>
+<?php
+
+    include_once("depoimentos.php");
+
+?>
+<?php
+
+    include_once("");
+
+?>
+<?php
+
+    include_once("");
+
+?>
 
 
 
 <?php
 // Incluindo arquivos, footer
-include_once("templates/footer.php");
+// include_once("templates/footer.php");
 
 ?>
