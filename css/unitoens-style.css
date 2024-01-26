@@ -39,7 +39,20 @@
 
     display: flex;
 
-    
+}
+
+.fam-bt-detail {
+
+    border-top: 2px solid #FF0101;
+
+    padding-top: 10px;
+
+}
+
+.fam-bb-detail {
+
+    border-bottom: 2px solid #FF0101;
+    padding-bottom: 10px;
 
 }
 
