@@ -103,6 +103,10 @@
                     <p class="fam-bt-detail fam-bb-detail">
                         Desde às 8h do dia 26 de outubro de 2024, estarão abertas as inscrições para os interessados em concorrer a vagas para estudar no SESI-SP no ano letivo de 2025, rede particular de ensino com 142 unidades pelo Estado.
                         O maior número de vagas disponíveis é para o 1º ano do Ensino Fundamental. O cadastro deve ser feito exclusivamente online, no site do Sesi-SP.</p>
+                    <p class="fam-bb-detail"><span class="fam-bold-text">Sorteio de vagas</span> <br>
+                        Para concorrer às vagas disponíveis, os candidatos participam de um sorteio, por série e categoria (Beneficiários e Não Beneficiários), sempre que o número de inscritos for maior que o número de vagas. O sorteio ocorrerá no dia 17 de novembro, às 9h, diretamente na escola em que o candidato estiver inscrito.</p>
+
+                        <p class="fam-important-text">Consulte a unidade sesi mais proxima e faça sua matrícula!</p>
 
                 </div>
 
