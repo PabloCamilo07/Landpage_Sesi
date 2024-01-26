@@ -49,6 +49,7 @@
             </div>
         </div>
 
+<<<<<<< Updated upstream
         <div class="fam-noticias-container">
             <p class="fam-topic-titles">Notícias</p>
 
@@ -66,6 +67,8 @@
 
         </div>
         
+=======
+>>>>>>> Stashed changes
     </div>
 
 </body>
