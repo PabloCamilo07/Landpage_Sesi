@@ -106,7 +106,7 @@
                     <p class="fam-bb-detail"><span class="fam-bold-text">Sorteio de vagas</span> <br>
                         Para concorrer às vagas disponíveis, os candidatos participam de um sorteio, por série e categoria (Beneficiários e Não Beneficiários), sempre que o número de inscritos for maior que o número de vagas. O sorteio ocorrerá no dia 17 de novembro, às 9h, diretamente na escola em que o candidato estiver inscrito.</p>
 
-                        <p class="fam-important-text">Consulte a unidade sesi mais proxima e faça sua matrícula!</p>
+                    <p class="fam-important-text">Consulte a unidade sesi mais proxima e faça sua matrícula!</p>
 
                 </div>
 
@@ -114,6 +114,35 @@
             </div>
 
 
+        </div>
+
+        <div class="fam-give-space"></div>
+
+        <div class="fam-unidades-container">
+            <p class="fam-topic-titles">Ensino</p>
+
+            <div class="row fam-dflex-row">
+
+                <div class="col">
+                    <div class="fam-location-container">
+                        <img src="img/Rectangle 34.png" alt="166">
+                        <p class="fam-const-card-title-alt">ensino fundamental primário</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="fam-location-container">
+                        <img src="img/Rectangle 33.png" alt="265">
+                        <p class="fam-const-card-title-alt">ensino fundamental secundário</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="fam-location-container">
+                        <img src="img/WhatsApp Image 2024-01-26 at 13.54.05.jpeg" alt="166">
+                        <p class="fam-const-card-title-alt">ensino médio</p>
+                    </div>
+                </div>
+
+            </div>
         </div>
 
     </div>

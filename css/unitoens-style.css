@@ -1,9 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 /* OVERALLS */
+
+.fam-const-card-title-alt {
+
+    font-size: 20px;
+
+    margin-top: 20px;
+
+}
+
+.fam-const-card-title {
+
+    font-size: 15px;
+
+    margin-top: 15px;
+
+}
+
 .fam-const-uppercase-font {
 
     text-transform: uppercase;
+
+}
+
+.fam-bold-text {
+
+    font-weight: bolder;
+
+    font-size: 20px;
+
+}
+
+.fam-important-text {
+
+    text-align: center;
+
+    font-size: 24px;
 
 }
 
@@ -38,7 +71,15 @@
 .fam-cntnt-d-flex {
 
     display: flex;
+    font-size: 20px;
 
+}
+
+.fam-cntnt-d-flex img {
+    
+
+    max-height: 357px;
+    max-width: 414px;
 }
 
 .fam-bt-detail {
@@ -100,18 +141,9 @@
 
 }
 
-.fam-bold-text {
+.fam-give-space {
 
-    font-weight: bolder;
-
-    font-size: 20px;
+    margin-top: 20px;
 
 }
 
-.fam-important-text {
-
-    text-align: center;
-
-    font-size: 24px;
-
-}
