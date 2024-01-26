@@ -12,11 +12,11 @@
     <div class="container"> 
         <h2 class="depoimentos">Depoimentos</h2>
         <img src="img/alunos.png" alt="alunos" class="col-6 md-start alunos">
-        <div class="textodepoimentos col-6 float-md-end">
-            <p class="texto1" style="margin-left: 30px; margin-right: 10px;">-"Na Escola SESI Santo André, descobri um ambiente acolhedor que vai além das salas de aula. Os professores não apenas ensinam, mas inspiram. Aqui, aprendi a importância da inovação e do pensamento crítico, preparando-me para desafios além dos livros." - Amanda S., 16 anos.</p>
-            <p class="texto2" style="margin-right: 50px;">"O que mais amo na Escola SESI Santo André são as oportunidades que ela oferece. Desde competições científicas até projetos artísticos, sempre há algo empolgante acontecendo. Estou constantemente motivado a explorar meus interesses e descobrir meu verdadeiro potencial." - Lucas M., 17 anos.</p>
-            <p class="texto3" style="margin-left: 30px; margin-right: 10px;">"Estou orgulhoso de fazer parte de uma escola que valoriza a formação integral. Na Escola SESI Santo André, aprendemos não apenas a ser excelentes estudantes, mas também a ser cidadãos responsáveis e conscientes de nosso papel na sociedade." - João V., 17 anos.</p>
-            <p class="texto4" style="margin-right: 50px;">"Os professores da Escola SESI Santo André são mais do que educadores; são mentores. Eles estão sempre dispostos a ajudar, a orientar. Aprendi não apenas matérias acadêmicas, mas também lições de vida que levarei para sempre." - Rafael L., 18 anos.</p>
+        <div class="textodepoimentos col-6 float-md-end text-center">
+            <p class="texto1">"Na Escola SESI Santo André, descobri um ambiente acolhedor que vai além das salas de aula. Os professores não apenas ensinam, mas inspiram. Aqui, aprendi a importância da inovação e do pensamento crítico, preparando-me para desafios além dos livros." Amanda S., 16 anos.</p>
+            <p class="texto2">"O que mais amo na Escola SESI Santo André são as oportunidades que ela oferece. Desde competições científicas até projetos artísticos, sempre há algo empolgante acontecendo. Estou constantemente motivado a explorar meus interesses e descobrir meu verdadeiro potencial." Lucas M., 17 anos.</p>
+            <p class="texto3">"Estou orgulhoso de fazer parte de uma escola que valoriza a formação integral. Na Escola SESI Santo André, aprendemos não apenas a ser excelentes estudantes, mas também a ser cidadãos responsáveis e conscientes de nosso papel na sociedade." João V., 17 anos.</p>
+            <p class="texto4" style="">"Os professores da Escola SESI Santo André são mais do que educadores; são mentores. Eles estão sempre dispostos a ajudar, a orientar. Aprendi não apenas matérias acadêmicas, mas também lições de vida que levarei para sempre." Rafael L., 18 anos.</p>
         </div>
     </div>
     

@@ -17,7 +17,24 @@ body {
 .alunos {
   /* diminuir a imagem */
   width: 45%;
+  margin-left: 5px;
 }
 .nossa {
   margin-left: 40px;
+}
+.texto1{
+    margin-left: 90px; 
+    margin-right: 10px;
+}
+.texto2{
+    margin-right: 90px; 
+    margin-left: 10px
+}
+.texto3{
+    margin-left: 80px;
+    margin-right: 20px;
+}
+.texto4{
+    margin-right: 80px;
+    margin-left: 20px;
 }
