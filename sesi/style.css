@@ -1,0 +1,82 @@
+.video-container{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.video{
+    filter: brightness(50%);
+    height: 700px;
+    transition: 0.3s ease-in;
+}
+.video:hover{
+    filter: brightness(80%);
+    
+}
+.video:focus{
+    filter: brightness(100%);
+    border: 4px solid red;
+    
+}
+
+#compromissos, #valores {
+    list-style-type: decimal; /* Altera a marcador para números */
+}
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+section {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+
+h2 {
+    color: red;
+    transition: font-size 0.3s ease-in-out;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li:before {
+    content: "\2022";
+    color: red;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+li:hover {
+    color: red;
+    cursor: pointer;
+}
+
+h2:hover {
+    font-size: 3.5em;
+}
+
+
