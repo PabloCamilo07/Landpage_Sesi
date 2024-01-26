@@ -11,7 +11,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous" defer></script>
 
-    
+
 
 </head>
 
@@ -26,14 +26,14 @@
                 <div class="col">
                     <div class="fam-location-container">
                         <img src="img/Rectangle 14.png" alt="166">
-                        <p class="fam-const-card-title fam-const-uppercase-font">Centro educacional sesi</p>
+                        <p class="fam-const-card-title fam-const-uppercase-font">Centro educacional <br>sesi</p>
                         <p class="fam-const-card-loc-number fam-const-uppercase-font">166</p>
                     </div>
                 </div>
                 <div class="col">
                     <div class="fam-location-container">
                         <img src="img/Rectangle 15.png" alt="265">
-                        <p class="fam-const-card-title fam-const-uppercase-font">Centro educacional sesi</p>
+                        <p class="fam-const-card-title fam-const-uppercase-font">Centro educacional <br>sesi</p>
                         <p class="fam-const-card-loc-number fam-const-uppercase-font">265</p>
                     </div>
                 </div>
@@ -98,6 +98,13 @@
 
             <div class="fam-cntnt-d-flex">
                 <img src="img/image 6.png" alt="">
+
+                <div class="fam-matriculas-text container">
+                    <p class="fam-bt-detail fam-bb-detail">
+                        Desde às 8h do dia 26 de outubro de 2024, estarão abertas as inscrições para os interessados em concorrer a vagas para estudar no SESI-SP no ano letivo de 2025, rede particular de ensino com 142 unidades pelo Estado.
+                        O maior número de vagas disponíveis é para o 1º ano do Ensino Fundamental. O cadastro deve ser feito exclusivamente online, no site do Sesi-SP.</p>
+
+                </div>
 
 
             </div>
