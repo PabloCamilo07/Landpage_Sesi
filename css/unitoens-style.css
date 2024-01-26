@@ -59,7 +59,7 @@
     height: 277px;
     width: 284px;
 
-}
+} 
 
 .fam-noticias-container {
 
@@ -78,18 +78,10 @@
 
 }
 
+/* 
 .fam-noticias-image {
 
     height:230px;
-    width: 289px;    
+    width: 289px; 
 
-}
-
-.fam-notcias-container-item {
-
-    max-height: 230px;
-    max-width: 289px;
-    
-    background-color: #D9D9D9;
-
-}
+} */
