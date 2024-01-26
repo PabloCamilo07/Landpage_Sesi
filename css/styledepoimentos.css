@@ -1,0 +1,23 @@
+body{
+    background-color: #fff;
+}
+.textodepoimentos{
+    font-size: 14px;
+}
+.depoimentos{
+    /* rotacionar o texto */
+    transform: rotate(-4deg);
+}
+.historia{
+    font-size: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+    align-items: center;
+}
+.alunos{
+    /* diminuir a imagem */
+    width: 45%;
+}
+.nossa{
+    margin-left: 40px;
+}
