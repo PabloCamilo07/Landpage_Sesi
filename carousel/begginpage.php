@@ -22,10 +22,10 @@
     <h1 class="titu text-center ">Sesi Santo André - Página Inicial</h1>
     <div id="carouselExample" class="carousel slide">
       <div class="carousel-inner">
-        <div class="carousel-item active" style="max-height: 600px;">
+        <div class="carousel-item active" style="max-height: 650px;">
           <img src="img/imagem1.jpg" class="d-block w-100 " alt="">
         </div>
-        <div class="carousel-item" style="max-height: 600px;">
+        <div class="carousel-item" style="max-height: 650px;">
           <img src="img/imagem 2.jpg" class="d-block w-100 " alt="">
         </div>
       </div>
