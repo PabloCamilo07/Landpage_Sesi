@@ -99,3 +99,19 @@
     margin-bottom: -5px;
 
 }
+
+.fam-bold-text {
+
+    font-weight: bolder;
+
+    font-size: 20px;
+
+}
+
+.fam-important-text {
+
+    text-align: center;
+
+    font-size: 24px;
+
+}
