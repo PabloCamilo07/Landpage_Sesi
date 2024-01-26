@@ -1,9 +1,14 @@
-
-<?php
-
-
-include_once("css/styledepoimentos.css");
-?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styledepoimentos.css">
+    <title>Depoimentos</title>
+</head>
+<body>
+    
     <div class="container"> 
         <h2 class="depoimentos">Depoimentos</h2>
         <img src="img/alunos.png" alt="alunos" class="col-6 md-start alunos">
@@ -58,7 +63,5 @@ include_once("css/styledepoimentos.css");
     
     Seja parte desta comunidade educacional que valoriza a educação de qualidade, a inovação e o crescimento pessoal. Na Escola SESI Santo André, estamos comprometidos em preparar nossos alunos não apenas para os desafios acadêmicos, mas para a vida. Junte-se a nós nesta emocionante jornada educacional, onde transformamos vidas e construímos um futuro brilhante, juntos.</p>
 </div>
-
-
 </body>
 </html>
