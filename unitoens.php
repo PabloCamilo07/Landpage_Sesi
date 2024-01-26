@@ -69,7 +69,7 @@
 
                 <div class="fam-notcias-container-item col">
                     <div class="fam-image-and-news-container">
-                        <img class="fam-noticias-image" src="img/WhatsApp Image 2024-01-25 at 13.39 2.png" alt="">
+                        <img class="fam-noticias-image fam-special-width" src="img/WhatsApp Image 2024-01-25 at 13.39 2.png" alt="">
 
                         <p class="fam-noticias-text">Atletas do SESI-SP conquistam recorde de medalhas em jogos</p>
                     </div>

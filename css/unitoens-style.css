@@ -147,3 +147,40 @@
 
 }
 
+@media (max-width: 1080px) {
+
+    .fam-matriculas-container {
+
+        display: flex;
+
+        flex-direction: column;
+
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .fam-cntnt-d-flex {
+
+        display: flex;
+
+        flex-direction: column;
+
+    }
+
+    .fam-matriculas-container img, .fam-special-width {
+
+        width: 100%;
+
+    }
+
+    .fam-noticias-container {
+
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    }
+
+
+}
